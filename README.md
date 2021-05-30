@@ -1,2 +1,1 @@
-# vcs_test
-repo created for VCS test
+First name and last name: Bartosz Szomborg
